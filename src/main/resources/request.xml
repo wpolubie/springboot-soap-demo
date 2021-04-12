@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+               xmlns:std="http://wpolubie.pl/soap-example">
+    <soap:Body>
+        <std:getStudent>
+            <id>2</id>
+        </std:getStudent>
+    </soap:Body>
+</soap:Envelope>
